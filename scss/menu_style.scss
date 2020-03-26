@@ -156,6 +156,7 @@ $footerBgC:#0f7bff;
 footer{
 	width: 100%;
 	max-width: 1920px;
+	border-top:1px solid white;
 	margin: 0 auto;
 	display: flex;
 	align-items: center;
@@ -307,6 +308,7 @@ footer{
 		justify-content: center;
 		flex-wrap: wrap;
 		height: auto;
+
 	}
 	.f__content__2{
 		flex-wrap: wrap;
