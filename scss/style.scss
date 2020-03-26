@@ -869,7 +869,12 @@ hr{
 
 
 @media (max-width: 345px){
-	.BestApp__btns{justify-content: center;}
+	.BestApp__btns{
+		justify-content: center;
+	}
+	.btn1{
+		margin-bottom: 10px;
+	}
 	
 	
 }
@@ -991,6 +996,12 @@ hr{
 	}
 
 
+}
+
+@media(max-width: 470px){
+	.BestApp{
+		background: none;
+	}
 }
 
 @media (max-width: 1132px){

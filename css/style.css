@@ -736,7 +736,10 @@ hr {
     transition: all 0.3s ease 0s; } }
 @media (max-width: 345px) {
   .BestApp__btns {
-    justify-content: center; } }
+    justify-content: center; }
+
+  .btn1 {
+    margin-bottom: 10px; } }
 @media (max-width: 980px) {
   .features__body {
     flex-wrap: wrap;
@@ -837,6 +840,9 @@ hr {
 
   .s6content2 {
     margin-left: 127px; } }
+@media (max-width: 470px) {
+  .BestApp {
+    background: none; } }
 @media (max-width: 1132px) {
   .s7content21 {
     margin-right: 0; } }
