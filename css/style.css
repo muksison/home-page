@@ -632,6 +632,9 @@ hr {
   flex-direction: column;
   justify-content: space-between;
   max-height: 110px; }
+  .s8content1 span {
+    font-size: 32px;
+    font-weight: bold; }
 
 .s8content1 p {
   margin-top: 24px; }
